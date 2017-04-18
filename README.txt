@@ -29,7 +29,7 @@ u-Techのゼミは本来参加者全員が主体的に学んでいくもので�
 
 ですので、その初歩を僕がサポートをしつつ、みなさんで協力して学習していっていただきたいと考えています。
 
-また、教材はhttp://diveintopython3-ja.rdy.jp/index.html
+また、教材はhttp://diveintopython3-ja.rdy.jp/index.htmlもしくはhttps://prog-8.com/languages/python
 を用います。
 
 さて、初日はおそらくPython3を使用するための準備で終わってしまうと思うので、その準備をこれからします。
