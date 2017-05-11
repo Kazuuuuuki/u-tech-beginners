@@ -1,12 +1,12 @@
 モジュール
 ･import
-･from import
+･from ??? import ???
 ･__name__
-･if __name__=="__main__"
+･if(__name__=="__main__")
 ･dir(sys)
 ･print(sys.path)
 ･append
-･python -m pip install ????
+･python -m pip install ???
 
 演習
 0.日付を表示する関数を作る
