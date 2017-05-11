@@ -1,0 +1,9 @@
+def price_dic(pen_price, apple_price, pineapple_price):
+    price_dictionary = {'pen':pen_price, 'apple':apple_price, 'pineapple':pineapple_price}
+    return price_dictionary
+
+print(price_dic(100,200,300))
+
+#キーワード引数を用いる
+a = price_dic(apple_price=200, pineapple_price=300, pen_price=100,)
+print(a)
